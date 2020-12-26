@@ -22,4 +22,4 @@ Strudying 'stack'
        ArrayList를 이용하여 기존의 배열에 추가하고자 하는 배열을 
        더한 새로운 배열을 return 해준다(add 사용).
    - 파이썬
-     : array_name.append()를 통해서 계속적으로 추가 가능
+     : array_name.append() / array_name.insert() 를 통해서 계속적으로 추가 가능
