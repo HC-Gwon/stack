@@ -55,3 +55,4 @@ for i in range(nbr):
     elif len(str) >= 6:     # push X
         X = int(str[5:])
         pushX(arr, X)
+
